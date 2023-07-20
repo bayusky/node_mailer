@@ -1,0 +1,7 @@
+#change thi file to .env
+
+SMTP_RELAY="your smtp relay"
+SMTP_PORT=587/465/25            #choose one
+SMTP_USERNAME="your smtp relay username"
+SMTP_FROM="your smtp user"
+SMTP_KEY="key or password"
